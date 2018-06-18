@@ -8,7 +8,7 @@ Target audience/Requirements:
 
 This workshop is designed for data scientists and software developers with a basic understanding of ML/DL who would like to learn more about recommender systems. Familiarity with Python, linear algebra, neural networks and Tensorflow is advised. Attendees are expected to bring their own laptops for hands-on practical work.
 
-## Summary
+## Goal
 
 - Learning about how to leverage ML to determine the most relevant information for a particular individual
 - How (and why) to implement a Wide & Deep model

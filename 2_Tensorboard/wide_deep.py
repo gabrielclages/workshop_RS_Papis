@@ -81,11 +81,11 @@ parser.add_argument(
     '--batch_size', type=int, default=40, help='Number of examples per batch.')
 
 parser.add_argument(
-    '--train_data', type=str, default='census_data/adult.data',
+    '--train_data', type=str, default='/data/census_data/adult.data',
     help='Path to the training data.')
 
 parser.add_argument(
-    '--test_data', type=str, default='census_data/adult.test',
+    '--test_data', type=str, default='/data/census_data/adult.test',
     help='Path to the test data.')
 # To input hidden_units from the command line try: 100,50,25
 parser.add_argument("--hidden_units", action=parse_comma_separated_list(element_type=int),

@@ -1,5 +1,5 @@
-In order to initiate your Floyd Environment
+## In order to initiate your Floyd Environment
 
-floyd init humancoders/recsys 
+floyd init humancoders/recsys
 
- floyd run --mode jupyter
+floyd run --data humancoders/datasets/recsys-dataset/1:/data --mode jupyter

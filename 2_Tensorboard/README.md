@@ -1,5 +1,3 @@
-In order to initiate your Floyd Environment
+## In order to initiate your Floyd Environment
 
-floyd init humancoders/recsys 
-
- floyd run --mode jupyter
+Please follow the instructions in the Tensorboard.ipynb
